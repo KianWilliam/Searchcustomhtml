@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0" type="plugin" group="extension" method="upgrade">
+	<name>Extension - updatecustomindex</name>
+	<author>KWProductions Co.</author>
+	<creationDate>Jan 2023</creationDate>
+	<copyright>(C) 2022 Open Source Matters, Inc.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>webarchitect@kwproductions121.ir</authorEmail>
+	<authorUrl>kwproductions121.ir</authorUrl>
+	<version>1.0.0</version>
+	<description><![CDATA[This pluging reindexes the updated content of customHtml modules. Designed by <a href="https://kwproductions121.ir">KWProductions Co.</a>]]></description>
+	
+	<files>
+		<filename plugin="updatecustomindex">updatecustomindex.php</filename>
+		<filename>index.html</filename>
+
+		
+	</files>
+	
+
+	
+</extension>
