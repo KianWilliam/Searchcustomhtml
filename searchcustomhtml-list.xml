@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensionset name="Packages SearchCustomHtml" description="Packages SearchCustomHtml">
+   <extension name="pkg_searchcustomhtml" element="pkg_searchcustomhtml" type="package" version="1.0.0" detailsurl="https://www.extensions.kwproductions121.ir/myextensions.xml"/>
+</extensionset>

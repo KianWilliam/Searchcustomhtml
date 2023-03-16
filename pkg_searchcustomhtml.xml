@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension type="package" version="4.0" method="upgrade">
+ <identifier>pkg:searchcustomhtml</identifier>
+ <name>searchcustomhtml Package</name>
+ <author>KWProductions Co.</author>
+ <creationDate>Jan 2 2023</creationDate>
+ <license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
+ <packagename>searchcustomhtml</packagename>
+ <version>1.0.0</version>
+ <url>https://www.extensions.kwproductions121.ir</url>
+ <packager>Kian William Nowrouzian</packager>
+ <packagerurl>https://www.extensions.kwproductions121.ir</packagerurl>
+ <description><![CDATA[ This plugin is developed by <a href="https://kwproductions121.ir">KWProductions Co.</a> In case of any problem contact us: webarchitect@kwproductions121.ir <br />. ]]></description>
+ <update>http://www.extensions.kwproductions121.ir</update>
+ <scriptfile>script.php</scriptfile>
+ <files>
+   <file type="plugin" client="administrator" group="finder" >searchcustomhtml.zip</file>
+   <file type="plugin" client="administrator" group="system" >updatecustomindexa.zip</file>
+      <file type="plugin" client="administrator" group="system" >updateindexer.zip</file>
+   <file type="plugin" client="administrator" group="system" >updatemodulesview.zip</file>
+      <file type="plugin" client="administrator" group="module" >updatecustomlist.zip</file>
+   <file type="plugin" client="administrator" group="extension" >updatecustomindexb.zip</file>
+</files>
+<updateservers>
+		<server type="collection" name="pkg_searchcustomhtml"><![CDATA[https://www.extensions.kwproductions121.ir/myextensions.xml]]></server>
+</updateservers>
+ </extension>
