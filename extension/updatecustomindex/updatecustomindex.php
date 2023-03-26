@@ -64,7 +64,7 @@ class PlgExtensionUpdatecustomindex extends CMSPlugin
 			              //necessary in case the title of module is changed completely
 						  //to remove recs in finder table with the former name of the module
 						  //and former urls too!
-                    if(!$isNew){
+                    if(!$isNew && $data->module==="mod_custom"){
 
 			   $db = $this->db;
               $query = $db->getQuery(true);
