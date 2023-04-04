@@ -184,7 +184,9 @@ class PlgExtensionUpdatecustomindex extends CMSPlugin
 
              $results = $db->loadObjectList();
 		
-			 
+	    if($results !==NULL && count($results)>0) :
+		
+	 
 			 
 		foreach($results as $result):
 
@@ -235,6 +237,7 @@ $Result = new Result();
 	
 		
             endforeach;
+	endif;
 //Title must be updated  here, in case the user change and save several times the title of custom module without closing the custom module backend!
 			
 			$query = $db->getQuery(true);
