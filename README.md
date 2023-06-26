@@ -38,5 +38,5 @@ you may download the extension @:
 https://www.extensions.kwproductions121.ir/myplugins/searchcustomhtml.html<br />
 In case of any problem contact me at:
 webarchitect@kwproductions121.ir<br />
-https://github.com/KianWilliam/Searchcustomhtml
+https://github.com/KianWilliam/Searchcustomhtml <br />
 long live science.
