@@ -36,7 +36,7 @@ any settings.Also Cache (Broswer or server side) might sometimes prevent from pr
 In the Pro-version all custom modules shall be fixed according to the condition mentioned above!
 you may download the extension @:
 https://www.extensions.kwproductions121.ir/myplugins/searchcustomhtml.html<br />
-In case of any problem contact me at:
+In case of any problem or ordering pro-version contact me at:
 webarchitect@kwproductions121.ir<br />
 https://github.com/KianWilliam/Searchcustomhtml <br />
 long live science.
